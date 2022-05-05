@@ -1,15 +1,16 @@
-<h1>Hi, I'm George! This is a portfolio of technical accomplishments and interests in the cybersecurity realm.</h1>
+<h1>Hi, I'm George! This is my portfolio of technical accomplishments and interests in the cybersecurity realm.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Cloud Computing</b>
   - [Virtual Networking with Containers and ELK Stack](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<!-- 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<!-- 
+
 
 <h2> 🤳 Connect with me:</h2>
 
