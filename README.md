@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Cloud Computing</b>
-  - [Virtual Networking with Containers and ELK Stack](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Web App vNet with ELK Stack Monitoring](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
