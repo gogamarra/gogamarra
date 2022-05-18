@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Cloud Computing</b>
-  - [Configure an ELK Stack Server for Cloud Monitoring](https://github.com/gogamarra/Bootcamp-ELK-Stack/blob/master/README.md)
+  - [Automated ELK Stack Deployment (MS Azure)](https://github.com/gogamarra/Bootcamp-ELK-Stack/blob/master/README.md)
 
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
