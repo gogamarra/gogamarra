@@ -1,4 +1,4 @@
-<h1>Hi! This is my cybersecurity portfolio.</h1>
+<h1>The George Gamarra Cybersecurity Projects Portfolio.</h1>
 
 <h2>👨‍💻 Projects</h2>
 
