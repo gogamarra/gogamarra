@@ -1,4 +1,4 @@
-<h1>Hi, I'm George! This is my portfolio of technical accomplishments and interests in the cybersecurity realm.</h1>
+<h1>Hi! This is my cybersecurity portfolio.</h1>
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
