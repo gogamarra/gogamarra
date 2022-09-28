@@ -1,6 +1,6 @@
 <h1>Hi! This is my cybersecurity portfolio.</h1>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>Cloud Computing</b>
   - [Automated ELK Stack Deployment](https://github.com/gogamarra/Bootcamp-ELK-Stack/blob/master/README.md)
