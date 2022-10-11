@@ -6,7 +6,7 @@
   - [Automated ELK Stack Deployment](https://github.com/gogamarra/Bootcamp-ELK-Stack/blob/master/README.md)
 
 - <b>SIEM</b>
-  - [Design A Splunk Monitoring Solution](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
+  - [A Splunk Monitoring Solution](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
 
