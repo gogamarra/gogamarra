@@ -4,7 +4,7 @@
 
 - <b>Cloud Network Security</b>
   - [Automated ELK Stack Deployment](https://github.com/gogamarra/Bootcamp-ELK-Stack/blob/master/README.md)
-    - Walk with me as I create and deploy a live security solution known as an ELK monitoring stack using LINUX virtual machines/provisioner/containers to monitor an MS AZURE virtual network hosting web application servers. This solution allows an analyst to monitor all network traffic and redeploy as needed.
+    - Come with me as I create and deploy a live security solution known as an ELK monitoring stack using LINUX virtual machines/provisioner/containers to monitor an MS AZURE virtual network hosting web application servers. This solution allows an analyst to monitor all network traffic and redeploy as needed.
 
 - <b>SIEM</b>
   - [A Splunk Monitoring Solution](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
