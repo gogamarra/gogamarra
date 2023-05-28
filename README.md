@@ -8,7 +8,7 @@
 
 - <b>SIEM</b>
   - [A Splunk Monitoring Solution](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
-    - Follow me as I demonstrate my ability to design a powerful Splunk Enterprise Security SIEM monitoring solution to protect a customer from security attacks by analyzing logs, using SPL to create reports, and setting up automated alerts.
+    - Follow me as I demonstrate my ability to design a powerful Splunk Enterprise Security SIEM monitoring solution to protect a customer from security attacks by analyzing logs, using SPL to create reports, and setting up automated alerts..
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
 
