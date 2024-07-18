@@ -6,7 +6,7 @@
   - [Fully functional ELK Stack Platform](https://github.com/gogamarra/Bootcamp-ELK-Stack/blob/master/README.md)
     - Here, I create and deploy an ELK stack data analytics platform to secure a live network. This solution allows an analyst to monitor all network traffic and redeploy as needed.
     - Functions Deployed: , Search Engine (Elasticsearch), Log data capture (Logstash), Visualizations and Dashboards (Kibana), server agent data shippers (Beats)
-    - Skills: Microsoft Azure, Linux, Ansbile, Docker containers, YAML scripting, Apache web server, firewall, load balancer, provisioner, virtualization, automation
+    - Skills: Microsoft Azure, Linux, Ansible, Docker containers, YAML scripting, Apache web server, firewall, load balancer, provisioner, virtualization, automation
 
   - [Configuring Splunk ES monitoring with attack scenarios](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
     - Follow me as I implement Splunk Enterprise Security to defend a live network.  Attack scenarios and documented response included.
