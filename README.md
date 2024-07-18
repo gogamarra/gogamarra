@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects</h2>
 
-- <b>Deploying Enterprise Data Analytics:</b> Monitor, Analyze and Defending IT operations
+- <b>Creating Network Infrastructure and Deploying Enterprise Data Analytics:</b> Monitor, Analyze and Defending IT operations
   - [Fully functional ELK Stack Platform](https://github.com/gogamarra/Bootcamp-ELK-Stack/blob/master/README.md)
     - Here, I create and deploy an ELK stack data analytics platform to secure a live network. This solution allows an analyst to monitor all network traffic and redeploy as needed.
     - Functions Deployed: , Search Engine (Elasticsearch), Log data capture (Logstash), Visualizations and Dashboards (Kibana), server agent data shippers (Beats)
