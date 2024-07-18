@@ -7,11 +7,13 @@
     - Here, I create and deploy an ELK stack data analytics platform to secure a live network security. This solution allows an analyst to monitor all network traffic and redeploy as needed.
     - Functions Deployed: , Search Engine (Elasticsearch), Log data capture (Logstash), Visualizations and Dashboards (Kibana), server agent data shippers (Beats)
     - Skills: Microsoft Azure, Linux, Ansbile, Docker containers, YAML scripting, Apache web server, firewall, load balancer, provisioner, virtualization, automation
-<!-- - <b>SIEM</b>
+
   - [Configuring Splunk ES monitoring with attack scenarios](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
     - Follow me as I implement Splunk Enterprise Security to defend a live network.  Attack scenarios and documented response included.
     - Skills:  Splunk, Splunk Search Processing Language (SPL), Data Analysis, Visualizations, Automation, Log Analysis, Attack Scenarios, automation
-<!-- 
+<!--
+
+- <b>SIEM</b>
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
