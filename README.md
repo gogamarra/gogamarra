@@ -1,7 +1,8 @@
 <h1>George Gamarra: My Cybersecurity Portfolio</h1>
 
 <h2>👨‍💻 Projects</h2>
-
+The following are documented examples of detailed infrastructure and cybersecurity solutions implemented by me.
+This demonstrated my capacity to understand data analytics, system design, construction, techncial specifications, network infrastructure 
 - <b>Cloud Network Security</b>
   - [ELK Stack Data Analytics Monitoring Defense](https://github.com/gogamarra/Bootcamp-ELK-Stack/blob/master/README.md)
     - Here, I create and deploy an ELK stack data analytics platform to secure a live network security. This solution allows an analyst to monitor all network traffic and redeploy as needed.
