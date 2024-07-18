@@ -8,9 +8,9 @@
     - Functions Deployed: , Search Engine (Elasticsearch), Log data capture (Logstash), Visualizations and Dashboards (Kibana), server agent data shippers (Beats)
     - Skills: Microsoft Azure, Linux, Ansbile, Docker containers, YAML scripting, Apache web server, firewall, load balancer, provisioner, virtualization
 - <b>SIEM</b>
-  - [Splunk Monitoring Solution](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
-    - Follow me as I demonstrate my ability to design and implement Splunk Enterprise Security, a powerful monitoring solution to protect customers from security attacks by analyzing logs, using SPL to create reports, and setting up automated alerts.
-    - Skills:  Splunk, Splunk Search Processing Language (SPL), Data Analysis, Visualizations, Automation
+  - [Defending with Splunk ES and data analytics](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
+    - Follow me as I implement Splunk Enterprise Security to defend a live network.  Attack scenarios and documented response included.
+    - Skills:  Splunk, Splunk Search Processing Language (SPL), Data Analysis, Visualizations, Automation, Log Analysis, Attack Scenarios
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
 
