@@ -5,11 +5,12 @@
 - <b>Cloud Network Security</b>
   - [Automated ELK Stack Deployment](https://github.com/gogamarra/Bootcamp-ELK-Stack/blob/master/README.md)
     - Here, I create and deploy the ELK stack data analytics platform for security over a live network security. This solution allows an analyst to monitor all network traffic and redeploy as needed.
-    - Skills used: Microsoft Azure, Linux, Ansbile, Docker containers, YAML scripting, Apache web server, firewall, load balancer, provisioner, virtualization
+    - Functions Deployed: , Search Engine (Elasticsearch), Log data capture (Logstash), Visualizations and Dashboards (Kibana), server agent data shippers (Beats)
+    - Skills: Microsoft Azure, Linux, Ansbile, Docker containers, YAML scripting, Apache web server, firewall, load balancer, provisioner, virtualization
 - <b>SIEM</b>
-  - [A Splunk Monitoring Solution](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
-    - Follow me as I demonstrate my ability to design a powerful Splunk Enterprise Security SIEM monitoring solution to protect customers from security attacks by analyzing logs, using SPL to create reports, and setting up automated alerts.
-    - Skills:  Splunk, SPL query development, Log Analysis, Visualizations
+  - [Splunk Monitoring Solution](https://github.com/gogamarra/SIEM-SplunkMonitoring/blob/main/README.md)
+    - Follow me as I demonstrate my ability to design and implement Splunk Enterprise Security, a powerful monitoring solution to protect customers from security attacks by analyzing logs, using SPL to create reports, and setting up automated alerts.
+    - Skills:  Splunk, Splunk Search Processing Language (SPL), Data Analysis, Visualizations, Automation
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
 
